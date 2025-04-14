@@ -33,4 +33,4 @@ volumes:
   mysql_data:
   joomla_data:
 
-Adiciona docker-compose para Joomla + MySQL)
+Adiciona docker-compose para Joomla + MySQL
